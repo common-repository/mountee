@@ -1,0 +1,19 @@
+.mountee-wrap h1 {
+	margin-bottom: 30px;
+}
+.mountee-wrap p {
+	margin-bottom: 27px;
+}
+.mountee-wrap .error-message {
+	color: red;
+}
+.mountee-wrap .strong {
+	font-weight: bold;
+}
+.mountee-wrap .param strong {
+	display: inline-block;
+	width: 220px;
+}
+.mountee-wrap .settings p {
+	margin: 1em 0;
+}
